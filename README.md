@@ -23,6 +23,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
+* [Deployed Page](#deployed-page)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -37,6 +38,9 @@
 ![Screen Shot](https://cdn.discordapp.com/attachments/1082637369804599370/1159975610916032652/image.png?ex=6532fa78&is=65208578&hm=7ce74b6e05daf221603b203b08f34caf68dda795339c1c4d015c12d1abce8ec1&)
 
 Note Master PWA Text Editor is a cutting-edge text editor web application designed to empower users to create and manage notes and code snippets seamlessly, with or without an internet connection. This Progressive Web App (PWA) combines the convenience of modern web technologies and the reliability of offline access.
+
+## Deployed Page
+- https://anvar-pwa-text-editor-e08324ef3a9b.herokuapp.com/
 
 ## Getting Started
 
