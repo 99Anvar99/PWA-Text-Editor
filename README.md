@@ -49,7 +49,7 @@ Note Master PWA Text Editor is a cutting-edge text editor web application design
 
 1. Begin by cloning the repository to your local development environment using the following Git command:
 ```
-https://github.com/99Anvar99/
+https://github.com/99Anvar99/PWA-Text-Editor.git
 ```
 
 2. Install all the required dependencies by executing the command:
