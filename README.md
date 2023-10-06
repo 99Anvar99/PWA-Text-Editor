@@ -30,7 +30,7 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
+* [ScreenShots](#screenshots)
 
 ## About The Project
 
